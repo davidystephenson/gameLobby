@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/davidystephenson/gameLobby/issues"
   },
-  "homepage": "https://github.com/davidystephenson/gameLobby#readme"
+  "homepage": "https://github.com/davidystephenson/gameLobby#readme",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
 }
